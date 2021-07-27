@@ -1,0 +1,32 @@
+_repo: Swat-the-Fly-A-One-Act-Fantasy_65912
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Shinn, Everett
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '38228'
+    url: http://www.gutenberg.org/2009/agents/38228
+creator:
+  author:
+    agent_name: Gates, Eleanor
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '6218'
+    url: http://www.gutenberg.org/2009/agents/6218
+    wikipedia: https://en.wikipedia.org/wiki/Eleanor_Gates
+description: ''
+gutenberg_issued: '2021-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '"Swat the Fly!"
+
+  A One-Act Fantasy'
+url: http://www.gutenberg.org/ebooks/65912
